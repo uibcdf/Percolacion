@@ -1,0 +1,17 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- pip
+- setuptools >=61.0
+- versioningit~=2.0
+- numpy
+- matplotlib
+- seaborn
+- sphinx
+- sphinx_rtd_theme
+- sphinxcontrib-bibtex
+- sphinx-remove-toctrees
+- sphinx-copybutton
+- myst-nb
