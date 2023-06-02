@@ -46,6 +46,8 @@ development:
     - *test_dependencies
     - *docs_dependencies
     - jupyterlab
+    - tqdm
+    - mamba
 
 conda-build:
   channels:
